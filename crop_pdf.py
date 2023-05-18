@@ -1,3 +1,6 @@
+# Example usage:
+#   python3 crop_pdf.py -t 40 -i somefile.pdf
+
 import argparse
 from pikepdf import Pdf
 
